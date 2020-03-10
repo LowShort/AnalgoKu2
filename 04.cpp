@@ -2,7 +2,7 @@
 	Nama	    : Muhammad Iqbal Alif Fadilla
 	Kelas	    : B
 	NPM 	    : 140810180020
-	Deskripsi   : Insertion search
+	Deskripsi   : Insertion sort
 */
 
 #include <iostream>
